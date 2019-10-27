@@ -1,0 +1,28 @@
+ /* CSS에 이 부분을 추가하면 완성! */
+ * {
+ 	font-family: 'Sunflower', sans-serif;
+ }
+
+ body {
+ 	background-color: black;
+ 	color: white;
+ 	text-align: center;
+
+ }
+ .mytitle {
+ 	color: white;
+ 	margin: auto;
+ 	width: 50%;
+ }
+ .small-font {
+ 	font-size: 50px;
+ }
+ .italic{
+ 	font-style: italic;
+ }
+ .bold{
+ 	font-weight: bold;
+ }
+
+
+ </style>
